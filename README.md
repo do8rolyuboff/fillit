@@ -1,14 +1,16 @@
-# Fillit:
-![Иллюстрация к проекту](https://github.com/do8rolyuboff/Fillit/blob/master/FILLIT.jpg)
-Моя реализация проекта Fillit.
+# Fillit - @21born2code
+![Иллюстрация к проекту](https://github.com/do8rolyuboff/Fillit/blob/master/other/screen.png)
 
 ## Что такое Fillit?
-В этом проекте я создал программу, [Fillit](https://github.com/do8rolyuboff/Fillit/blob/master/fillit.en.pdf) которая, берет файл, содержащий список от 1 до 26 кусочков тетримино, и собирает их вместе в наименьший возможный квадрат, присвоив букву, каждому тетримино, начинающаяся с буквы «А».
+Этот проект я делал вместе с [Clala](https://github.com/dkotenko).
+[Fillit](https://github.com/do8rolyuboff/Fillit/blob/master/other/fillit.en.pdf) программа которая, берет файл, содержащий список от 1 до 26 кусочков тетримино, и собирает их вместе в наименьший возможный квадрат, присвоив букву, каждой фигуре.
 
-![Tetraminos](https://github.com/do8rolyuboff/Fillit/blob/master/Tetraminos.jpg)
-![Input/Output](https://github.com/do8rolyuboff/Fillit/blob/master/Input_output.jpg)
+![Input](https://github.com/do8rolyuboff/Fillit/blob/master/other/%23%23%23%23.png)
+![Output](https://github.com/do8rolyuboff/Fillit/blob/master/other/make.png)
 
-## Как это работает?
+
+
+## Как это запустить?
 `git clone https://github.com/do8rolyuboff/Fillit.git`
 
 `cd fillit`
@@ -17,5 +19,3 @@
 
 `./fillit ./examples/test_1`
 В папке *example* есть 9 тестов (test_1-test_9).
-
-📱Tetramino

@@ -2,7 +2,7 @@
 ![Иллюстрация к проекту](https://github.com/do8rolyuboff/Fillit/blob/master/other/screen.png)
 
 ## Что такое Fillit?
-В этом проекте я создал программу, [Fillit](https://github.com/do8rolyuboff/Fillit/blob/master/other/fillit.en.pdf) которая, берет файл, содержащий список от 1 до 26 кусочков тетримино, и собирает их вместе в наименьший возможный квадрат, присвоив букву, каждой фигуре.
+Это совместный проект с  [owner_url](https://github.com/dkotenko) В этом проекте я создал программу, [Fillit](https://github.com/do8rolyuboff/Fillit/blob/master/other/fillit.en.pdf) которая, берет файл, содержащий список от 1 до 26 кусочков тетримино, и собирает их вместе в наименьший возможный квадрат, присвоив букву, каждой фигуре.
 
 ![Input](https://github.com/do8rolyuboff/Fillit/blob/master/other/%23%23%23%23.png)
 ![Output](https://github.com/do8rolyuboff/Fillit/blob/master/other/make.png)

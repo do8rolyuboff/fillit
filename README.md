@@ -7,15 +7,3 @@
 
 ![Input](https://github.com/do8rolyuboff/Fillit/blob/master/other/%23%23%23%23.png)
 ![Output](https://github.com/do8rolyuboff/Fillit/blob/master/other/make.png)
-
-
-
-## Как это запустить?
-`git clone https://github.com/do8rolyuboff/Fillit.git`
-
-`cd fillit`
-
-`make`
-
-`./fillit ./examples/test_1`
-В папке *example* есть 9 тестов (test_1-test_9).
